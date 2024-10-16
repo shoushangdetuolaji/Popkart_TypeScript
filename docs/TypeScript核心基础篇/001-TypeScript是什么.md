@@ -1,5 +1,5 @@
 ---
-typora-root-url: ./img
+typora-root-url: ../img
 ---
 
 # TypeScript是什么
